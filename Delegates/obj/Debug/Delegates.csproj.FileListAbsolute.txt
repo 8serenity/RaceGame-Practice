@@ -1,0 +1,6 @@
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.exe.config
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.exe
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\Delegates\bin\Debug\Delegates.pdb
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.exe
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\Delegates\obj\Debug\Delegates.pdb

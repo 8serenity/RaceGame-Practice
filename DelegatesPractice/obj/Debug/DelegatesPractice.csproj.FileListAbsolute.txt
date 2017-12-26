@@ -1,0 +1,5 @@
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\DelegatesPractice\bin\Debug\DelegatesPractice.exe.config
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\DelegatesPractice\bin\Debug\DelegatesPractice.exe
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\DelegatesPractice\bin\Debug\DelegatesPractice.pdb
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\DelegatesPractice\obj\Debug\DelegatesPractice.exe
+c:\users\serenity\documents\visual studio 2015\Projects\Delegates\DelegatesPractice\obj\Debug\DelegatesPractice.pdb
